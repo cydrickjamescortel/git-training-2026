@@ -2,4 +2,4 @@
 My practice repo for Git Training 2026
 
 Name: Cydrick James Cortel
-Start Date: October 12 2026
+Start Date: October 14 2026
